@@ -1,4 +1,4 @@
-**Leonid Zhilin**
+                                        **Leonid Zhilin**
 #
 Age: 24
 #
@@ -6,8 +6,8 @@ Local: Moscow, Russia
 #
 Education: BA in information technology
 #
-
 Use:
+#
  OS:
   * UNIX
   * Linux
