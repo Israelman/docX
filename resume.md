@@ -7,7 +7,7 @@ Local: Moscow, Russia
 Education: BA in information technology
 #
 Use:
-#####OS:
+##OS:
   * UNIX
   * Linux
   * Windows
