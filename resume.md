@@ -6,8 +6,8 @@ Local: Moscow, Russia
 #
 Education: BA in information technology
 #
-Use:
-''''
+>Use:
+
   –OS
   –UNIX
   –Linux
