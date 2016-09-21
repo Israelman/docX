@@ -1,23 +1,23 @@
-Leonid Zhilin
+**Leonid Zhilin**
 Age: 24
 Local: Moscow, Russia
 Education: BA in information technology
 Use {
   OS:
-  –UNIX
-  –Linux
-  –Windows, 
+  *UNIX
+  *Linux
+  *Windows
   Code:
-  –ruby
-  –php
-  –html/css
-  –sql
-  –bash/cmd 
-  –git
-  –Selenium IDE
+  *ruby
+  *php
+  *html/css
+  *sql
+  *bash/cmd 
+  *git
+  *Selenium IDE
   Antivirus:
-  –KES
-  –Dr.Web Enterprise Security Suite
+  *KES
+  *Dr.Web Enterprise Security Suite
  
 Hobby: chess, swimming
 
