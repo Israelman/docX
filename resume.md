@@ -3,12 +3,15 @@
 Age: 24
 #
 Local: Moscow, Russia
-#
+---
 Education: BA in information technology
-#
+---
 Use:
 #
- OS:>UNIX, Linux, Windows
+ OS:
+  * UNIX
+  * Linux
+  * Windows
 #
   Code:>ruby, php, html/css, sql, bash/cmd, git, Selenium IDE
   #
