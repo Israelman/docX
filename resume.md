@@ -7,12 +7,10 @@ Local: Moscow, Russia
 Education: BA in information technology
 #
 Use:
-#
  ######OS:
   * UNIX
   * Linux
   * Windows
-
   ######Code:
   * ruby
   * php
@@ -21,7 +19,6 @@ Use:
   * bash/cmd
   * git
   * Selenium IDE
-  
   ######Antivirus:
   * KES
   * Dr.Web Enterprise Security Suite
