@@ -7,12 +7,12 @@ Local: Moscow, Russia
 Education: BA in information technology
 #
 Use:
-----
+''''
   –OS
   –UNIX
   –Linux
  –Windows
-----
+''''
   Code:
   –ruby
   –php
