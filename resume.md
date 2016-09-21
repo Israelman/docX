@@ -8,12 +8,11 @@ Education: BA in information technology
 #
 ````python
 Use:
-#
  OS:
   * UNIX
   * Linux
   * Windows
-#
+
   Code:
   * ruby
   * php
@@ -22,10 +21,11 @@ Use:
   * bash/cmd
   * git
   * Selenium IDE
-  #
+  
   Antivirus:
   * KES
   * Dr.Web Enterprise Security Suite
+  ````
 Hobby: chess, swimming
 #
                                                                   Contact: office@ukusi-moyu-kolbasku.ru
