@@ -6,7 +6,7 @@ Local: Moscow, Russia
 #
 Education: BA in information technology
 #
-````python
+
 Use:
  OS:
   * UNIX
@@ -25,7 +25,7 @@ Use:
   Antivirus:
   * KES
   * Dr.Web Enterprise Security Suite
-  ````
+
 Hobby: chess, swimming
 #
                                                                   Contact: office@ukusi-moyu-kolbasku.ru
