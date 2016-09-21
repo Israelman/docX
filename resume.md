@@ -6,6 +6,7 @@ Local: Moscow, Russia
 #
 Education: BA in information technology
 #
+''''python
 Use:
 #
  OS:
