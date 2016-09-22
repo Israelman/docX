@@ -7,12 +7,12 @@ Local: Moscow, Russia
 Education: BA in information technology
 #
 Use:
-###OS:
+####OS:
   * UNIX
   * Linux
   * Windows
   
-###Code:
+####Code:
   * ruby
   * php
   * html/css
@@ -21,10 +21,9 @@ Use:
   * git
   * Selenium IDE
 
-###Antivirus:
+####Antivirus:
   * KES
   * Dr.Web Enterprise Security Suite
 
 Hobby: chess, swimming
-#
-                                                                  Contact: office@ukusi-moyu-kolbasku.ru
+Contact: office@ukusi-moyu-kolbasku.ru
