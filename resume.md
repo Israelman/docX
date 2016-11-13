@@ -12,4 +12,4 @@
 
 **Hobby:** chess, swimming
 
-**Contact:** office@ukusi-moyu-kolbasku.ru
+**Contact:** leonid@ukusi-moyu-kolbasku.ru
