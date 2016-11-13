@@ -1,30 +1,13 @@
 ##Leonid Zhilin
 
-Age: 24
+**Age:** 24
 
-Local: Moscow, Russia
+**Local:** Moscow, Russia
 
-Education: BA in information technology
+**Education:** BA in information technology *Astrakhan State University*
 
-Use:
-####OS:
-  * UNIX
-  * Linux
-  * Windows
-  
-####Code:
-  * ruby
-  * php
-  * html/css
-  * sql
-  * bash/cmd
-  * git
-  * Selenium IDE
+**Skills:** UNIX, Linux, Windows, ruby, php, html/css, sql, command line, git, selenium ide, KES, Dr.Web Enterprise Security Suite, Windows Deployment Services, key management service, help desk
 
-####Antivirus:
-  * KES
-  * Dr.Web Enterprise Security Suite
+**Hobby:** chess, swimming
 
-Hobby: chess, swimming
-#
-Contact: office@ukusi-moyu-kolbasku.ru
+*Contact: office@ukusi-moyu-kolbasku.ru*
