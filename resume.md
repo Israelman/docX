@@ -1,6 +1,6 @@
 ##Leonid Zhilin
 
-**Age:** 24
+**Age:** 25
 
 **Local:** Moscow, Russia
 
@@ -10,7 +10,7 @@
 
 I work in ACTIONPAY from 2016 to present, _qa engineеr_.
 
-**Skills:** UNIX, Linux, Windows, ruby, php, html/css, sql, command line, git, selenium ide(plugin mozila), Kaspersky Endpoint Security, Dr.Web Enterprise Security Suite, Windows Deployment Services, norton ghost, key management service, helpdesk
+**Skills:** UNIX, Linux, Windows, C/C++, Object-C ruby, php, html/css, sql, command line, git, selenium ide(plugin mozila), Kaspersky Endpoint Security, Dr.Web Enterprise Security Suite, Windows Deployment Services, norton ghost, key management service, helpdesk
 
 **Hobby:** chess, swimming
 
